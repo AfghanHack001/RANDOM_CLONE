@@ -6,8 +6,6 @@ apt upgrade
 
 apt install git
 
-git pul
-
 rm -rf RANDOM_CLONE
 
 git clone https://github.com/AfghanHack001/RANDOM_CLONE.git
